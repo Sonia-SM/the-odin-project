@@ -1,12 +1,11 @@
-# the-odin-project
-Full-stack web development projects from The Odin Project (HTML, CSS, JS, Node)
+
 # The Odin Project - My Learning Journey
 
 This repository contains all my projects and exercises from The Odin Project curriculum. 
 I'm using it to track my progress and build a strong foundation in full-stack web development.
 
 The Odin Project is a free, open-source curriculum that teaches web development 
-through hands-on projects, covering HTML, CSS, JavaScript, Git, Node.js, and more.
+through hands-on projects. The Full Stack JavaScript path focuses on building modern, responsive applications using JavaScript and Node.js.
 
 ## Skills Covered
 
